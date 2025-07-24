@@ -75,4 +75,3 @@ injury
 designer
 parachute
 ```
-## 🙌 Have Fun!
