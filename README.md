@@ -1,4 +1,4 @@
-# 🎮 Java Hangman Game 🕹️
+# Java Hangman Game 
 
 Welcome to the **Java Hangman Game** — a fun command-line game where you guess the hidden word one letter at a time before the stickman is fully drawn! ✍️
 
