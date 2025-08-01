@@ -23,7 +23,7 @@ Welcome to the **Java Hangman Game** — a fun command-line game where you guess
 
 ---
 
-## ▶️ How to Play
+## How to Play
 
 ### 1. Clone or Download the Project
 
@@ -52,7 +52,7 @@ Make sure `words.txt` exists and is populated with words (one per line).
 
 - Make 6 incorrect guesses ❌
 
-### 🎨 Hangman Art
+### Hangman Art
 ```
   o
  /|\
@@ -62,12 +62,12 @@ Make sure `words.txt` exists and is populated with words (one per line).
 ## 🛠 Requirements
 Java 8 or higher ☕
 
-## 📌 Notes
+## Notes
 - Words are loaded from the second line of words.txt onward (first line is skipped).
 
 - Make sure the file path in the code matches your project structure.
 
-## 📄 Example words.txt
+## Example words.txt
 ```
 # Word List
 commission
