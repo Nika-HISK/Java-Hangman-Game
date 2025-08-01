@@ -4,22 +4,22 @@ Welcome to the **Java Hangman Game** — a fun command-line game where you guess
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 - `Main.java` — Contains the main game logic.
 - `words.txt` — A text file with a list of words (one per line) for the game to randomly choose from.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
-1. 📖 Reads words from `src/words.txt`
-2. 🎲 Randomly selects one word
-3. 👤 Prompts the user to guess a letter
-4. ✅ Displays correct guesses
-5. ❌ Tracks wrong guesses (up to 6)
-6. ☠️ Ends game if too many incorrect guesses
-7. 🏆 Congratulates the player on winning
+1. Reads words from `src/words.txt`
+2. Randomly selects one word
+3. Prompts the user to guess a letter
+4. Displays correct guesses
+5. Tracks wrong guesses (up to 6)
+6. Ends game if too many incorrect guesses
+7. Congratulates the player on winning
 
 ---
 
